@@ -1,0 +1,575 @@
+@article{Zatorre2002,
+abstract = {We examine the evidence that speech and musical sounds exploit different acoustic cues: speech is highly dependent on rapidly changing broadband sounds, whereas tonal patterns tend to be slower, although small and precise changes in frequency are important. We argue that the auditory cortices in the two hemispheres are relatively specialized, such that temporal resolution is better in left auditory cortical areas and spectral resolution is better in right auditory cortical areas. We propose that cortical asymmetries might have developed as a general solution to the need to optimize processing of the acoustic environment in both temporal and frequency domains.},
+author = {Zatorre, Robert J. and Belin, Pascal and Penhune, Virginia B.},
+issn = {1879-307X},
+journal = {Trends in cognitive sciences},
+month = jan,
+number = {1},
+pages = {37--46},
+pmid = {11849614},
+title = {{Structure and function of auditory cortex: music and speech.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/11849614},
+volume = {6},
+year = {2002}
+}
+@article{VanHorn2012,
+abstract = {<p>White matter (WM) mapping of the human brain using neuroimaging
+techniques has gained considerable interest in the neuroscience community.
+Using diffusion weighted (DWI) and magnetic resonance imaging (MRI),
+WM fiber pathways between brain regions may be systematically assessed
+to make inferences concerning their role in normal brain function,
+influence on behavior, as well as concerning the consequences of
+network-level brain damage. In this paper, we investigate the detailed
+connectomics in a noted example of severe traumatic brain injury
+(TBI) which has proved important to and controversial in the history
+of neuroscience. We model the WM damage in the notable case of Phineas
+P. Gage, in whom a “tamping iron��? was accidentally shot through
+his skull and brain, resulting in profound behavioral changes. The
+specific effects of this injury on Mr. Gage's WM connectivity have
+not previously been considered in detail. Using computed tomography
+(CT) image data of the Gage skull in conjunction with modern anatomical
+MRI and diffusion imaging data obtained in contemporary right handed
+male subjects (aged 25–36), we computationally simulate the passage
+of the iron through the skull on the basis of reported and observed
+skull fiducial landmarks and assess the extent of cortical gray matter
+(GM) and WM damage. Specifically, we find that while considerable
+damage was, indeed, localized to the left frontal cortex, the impact
+on measures of network connectedness between directly affected and
+other brain areas was profound, widespread, and a probable contributor
+to both the reported acute as well as long-term behavioral changes.
+Yet, while significantly affecting several likely network hubs, damage
+to Mr. Gage's WM network may not have been more severe than expected
+from that of a similarly sized “average��? brain lesion. These
+results provide new insight into the remarkable brain injury experienced
+by this noteworthy patient.</p>},
+author = {{Van Horn}, John Darrell and Irimia, Andrei and Torgerson, Carinna M and Chambers, Micah C and Kikinis, Ron and Toga, Arthur W},
+doi = {10.1371/journal.pone.0037454},
+journal = {PLoS ONE},
+number = {5},
+pages = {e37454},
+publisher = {Public Library of Science},
+title = {{Mapping Connectivity Damage in the Case of Phineas Gage}},
+url = {http://dx.doi.org/10.1371\%2Fjournal.pone.0037454},
+volume = {7},
+year = {2012}
+}
+@article{Valaki2004,
+abstract = {Chinese differs from Indo-European languages in both its written and spoken forms. Being a tonal language, tones convey lexically meaningful information. The current study examines patterns of neurophysiological activity in temporal and temporoparietal brain areas as speakers of two Indo-European languages (Spanish and English) and speakers of Mandarin-Chinese were engaged in a spoken-word recognition task that is used clinically for the presurgical determination of hemispheric dominace for receptive language functions. Brain magnetic activation profiles were obtained from 92 healthy adult volunteers: 30 monolingual native speakers of Mandarin-Chinese, 20 Spanish-speaking, and 42 native speakers of American English. Activation scans were acquired in two different whole-head MEG systems using identical testing methods. Results indicate that (a) the degree of hemispheric asymmetry in the duration of neurophysiological activity in temporal and temporoparietal regions was reduced in the Chinese group, (b) the proportion of individuals who showed bilaterally symmetric activation was significantly higher in this group, and (c) group differences in functional hemispheric asymmetry were first noted after the initial sensory processing of the word stimuli. Furthermore, group differences in the degree of hemispheric asymmetry were primarily due to greater degree of activation in the right temporoparietal region in the Chinese group, suggesting increased participation of this region in the spoken word recognition in Mandarin-Chinese.},
+author = {Valaki, C E and Maestu, F and Simos, P G and Zhang, W and Fernandez, A and Amo, C M and Ortiz, T M and Papanicolaou, A C},
+doi = {10.1016/j.neuropsychologia.2003.11.019},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Valaki et al. - 2004 - Cortical organization for receptive language functions in Chinese, English, and Spanish a cross-linguistic MEG st.pdf:pdf},
+issn = {0028-3932},
+journal = {Neuropsychologia},
+keywords = {Adolescent,Adult,Asian Continental Ancestry Group,Brain Mapping,Case-Control Studies,Cerebral Cortex,Cerebral Cortex: anatomy \& histology,Cerebral Cortex: radionuclide imaging,Discrimination (Psychology),Discrimination (Psychology): physiology,England,Female,Functional Laterality,Functional Laterality: physiology,Hispanic Americans,Humans,Image Processing, Computer-Assisted,Language,Magnetic Resonance Imaging,Magnetoencephalography,Magnetoencephalography: methods,Male,Middle Aged,Neuropsychological Tests,Pattern Recognition, Automated,Phonetics,Reaction Time,Reaction Time: physiology,Speech Perception,Speech Perception: physiology,Statistics, Nonparametric,United States,United States: ethnology,Verbal Behavior,Verbal Behavior: physiology,Verbal Learning},
+month = jan,
+number = {7},
+pages = {967--79},
+pmid = {14998711},
+title = {{Cortical organization for receptive language functions in Chinese, English, and Spanish: a cross-linguistic MEG study.}},
+url = {http://www.sciencedirect.com/science/article/pii/S0028393203003269},
+volume = {42},
+year = {2004}
+}
+@article{Tsigka2014,
+abstract = {Abstract The dissociability of nouns and verbs and of their morphosyntactic
+operations has been firmly established by lesion data. However, the
+hypothesis that they are processed by distinct neural substrates
+is inconsistently supported by neuroimaging studies. We tackled this
+issue in a silent reading experiment during MEG. Participants silently
+read noun/verb homonyms in minimal syntactic context: article-noun
+(NPs), pronoun-verb (VPs) (e.g., il ballo/i balli, the dance/the
+dances; io ballo/tu balli, I dance/you dance). Homonyms allow to
+rule out prelexical or postlexical nuisance factors—they are orthographically
+and phonologically identical, but serve different grammatical functions
+depending on context. Under these experimental conditions, different
+activity to nouns and verbs can be confidently attributed to representational/processing
+distinctions. At the sensor level, three components of event-related
+magnetic fields were observed for the function word and four for
+the content word, but Global Field Power (GFP) analysis only showed
+differences between \{VPs\} and \{NPs\} at several but very short
+time windows. By contrast, source level analysis based on Minimum
+Norm Estimates (MNE) yielded significantly greater activity for \{VPs\}
+in left frontal areas and in a left frontoparietal network at late
+time windows (380–397 and 393–409\&\#xa0;ms). These results are
+fully consistent with lesion data, and show that verbs and nouns
+are processed differently in the brain. Frontal and parietal activation
+to verbs might correspond to morphosyntactic processes and to working
+memory recruitment (or thematic role assignment), respectively. Findings
+are consistent with the view that nouns and verbs and their morphosyntactic
+operations involve at least partially distinct neural substrates.
+However, they do not entirely rule out that nouns and verbs are processed
+in a shared neural substrate, and that differences result from greater
+complexity of verbal morphosyntax. },
+author = {Tsigka, Styliani and Papadelis, Christos and Braun, Christoph and Miceli, Gabriele},
+doi = {http://dx.doi.org/10.1016/j.neuropsychologia.2013.12.018},
+issn = {0028-3932},
+journal = {Neuropsychologia},
+keywords = {Magnetoencephalography},
+number = {0},
+pages = {87--97},
+title = {{Distinguishable neural correlates of verbs and nouns: A \{MEG\} study on homonyms}},
+url = {http://www.sciencedirect.com/science/article/pii/S002839321300448X},
+volume = {54},
+year = {2014}
+}
+@article{Sidtis2012,
+abstract = {The human voice is described in dialogic linguistics as an embodiment of self in a social context, contributing to expression, perception and mutual exchange of self, consciousness, inner life, and personhood. While these approaches are subjective and arise from phenomenological perspectives, scientific facts about personal vocal identity, and its role in biological development, support these views. It is our purpose to review studies of the biology of personal vocal identity-the familiar voice pattern-as providing an empirical foundation for the view that the human voice is an embodiment of self in the social context. Recent developments in the biology and evolution of communication are concordant with these notions, revealing that familiar voice recognition (also known as vocal identity recognition or individual vocal recognition) has contributed to survival in the earliest vocalizing species. Contemporary ethology documents the crucial role of familiar voices across animal species in signaling and perceiving internal states and personal identities. Neuropsychological studies of voice reveal multimodal cerebral associations arising across brain structures involved in memory, emotion, attention, and arousal in vocal perception and production, such that the voice represents the whole person. Although its roots are in evolutionary biology, human competence for processing layered social and personal meanings in the voice, as well as personal identity in a large repertory of familiar voice patterns, has achieved an immense sophistication.},
+author = {Sidtis, Diana and Kreiman, Jody},
+doi = {10.1007/s12124-011-9177-4},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sidtis, Kreiman - 2012 - In the beginning was the familiar voice personally familiar voices in the evolutionary and contemporary biology.pdf:pdf},
+issn = {1936-3567},
+journal = {Integrative psychological \& behavioral science},
+keywords = {Animals,Auditory Perception,Brain,Brain: physiology,Ego,Humans,Infant,Models, Psychological,Neural Pathways,Neural Pathways: physiology,Neuropsychology,Recognition (Psychology),Recognition (Psychology): physiology,Social Environment,Species Specificity,Thinking,Thinking: physiology,Voice,Voice: physiology},
+month = jun,
+number = {2},
+pages = {146--59},
+pmid = {21710374},
+title = {{In the beginning was the familiar voice: personally familiar voices in the evolutionary and contemporary biology of communication.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3224673\&tool=pmcentrez\&rendertype=abstract},
+volume = {46},
+year = {2012}
+}
+@article{Scott2009,
+abstract = {The motor theory of speech perception assumes that activation of the motor system is essential in the perception of speech. However, deficits in speech perception and comprehension do not arise from damage that is restricted to the motor cortex, few functional imaging studies reveal activity in the motor cortex during speech perception, and the motor cortex is strongly activated by many different sound categories. Here, we evaluate alternative roles for the motor cortex in spoken communication and suggest a specific role in sensorimotor processing in conversation. We argue that motor cortex activation is essential in joint speech, particularly for the timing of turn taking.},
+author = {Scott, Sophie K and McGettigan, Carolyn and Eisner, Frank},
+doi = {10.1038/nrn2603},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Scott, McGettigan, Eisner - 2009 - A little more conversation, a little less action--candidate roles for the motor cortex in speech perc.pdf:pdf},
+issn = {1471-0048},
+journal = {Nature reviews. Neuroscience},
+keywords = {Brain Mapping,Communication,Motor Cortex,Motor Cortex: physiology,Nerve Net,Nerve Net: physiology,Speech,Speech Perception,Speech Perception: physiology,Speech: physiology},
+month = apr,
+number = {4},
+pages = {295--302},
+pmid = {19277052},
+publisher = {Nature Publishing Group},
+shorttitle = {Nat Rev Neurosci},
+title = {{A little more conversation, a little less action--candidate roles for the motor cortex in speech perception.}},
+url = {http://dx.doi.org/10.1038/nrn2603},
+volume = {10},
+year = {2009}
+}
+@article{Scott2000,
+abstract = {It has been proposed that the identification of sounds, including species-specific vocalizations, by primates depends on anterior projections from the primary auditory cortex, an auditory pathway analogous to the ventral route proposed for the visual identification of objects. We have identified a similar route in the human for understanding intelligible speech. Using PET imaging to identify separable neural subsystems within the human auditory cortex, we used a variety of speech and speech-like stimuli with equivalent acoustic complexity but varying intelligibility. We have demonstrated that the left superior temporal sulcus responds to the presence of phonetic information, but its anterior part only responds if the stimulus is also intelligible. This novel observation demonstrates a left anterior temporal pathway for speech comprehension.},
+author = {Scott, S. K.},
+doi = {10.1093/brain/123.12.2400},
+issn = {14602156},
+journal = {Brain},
+month = dec,
+number = {12},
+pages = {2400--2406},
+title = {{Identification of a pathway for intelligible speech in the left temporal lobe}},
+url = {http://brain.oxfordjournals.org/content/123/12/2400},
+volume = {123},
+year = {2000}
+}
+@article{obleser2012neural,
+author = {Obleser, Jonas and Herrmann, Bj\"{o}rn and Henry, Molly J},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Obleser, Herrmann, Henry - 2012 - Neural oscillations in speech don't be enslaved by the envelope.pdf:pdf},
+journal = {Frontiers in Human Neuroscience},
+publisher = {Frontiers Media SA},
+title = {{Neural oscillations in speech: don't be enslaved by the envelope}},
+volume = {6},
+year = {2012}
+}
+@article{Nielsen2013,
+abstract = {Lateralized brain regions subserve functions such as language and visuospatial processing. It has been conjectured that individuals may be left-brain dominant or right-brain dominant based on personality and cognitive style, but neuroimaging data has not provided clear evidence whether such phenotypic differences in the strength of left-dominant or right-dominant networks exist. We evaluated whether strongly lateralized connections covaried within the same individuals. Data were analyzed from publicly available resting state scans for 1011 individuals between the ages of 7 and 29. For each subject, functional lateralization was measured for each pair of 7266 regions covering the gray matter at 5-mm resolution as a difference in correlation before and after inverting images across the midsagittal plane. The difference in gray matter density between homotopic coordinates was used as a regressor to reduce the effect of structural asymmetries on functional lateralization. Nine left- and 11 right-lateralized hubs were identified as peaks in the degree map from the graph of significantly lateralized connections. The left-lateralized hubs included regions from the default mode network (medial prefrontal cortex, posterior cingulate cortex, and temporoparietal junction) and language regions (e.g., Broca Area and Wernicke Area), whereas the right-lateralized hubs included regions from the attention control network (e.g., lateral intraparietal sulcus, anterior insula, area MT, and frontal eye fields). Left- and right-lateralized hubs formed two separable networks of mutually lateralized regions. Connections involving only left- or only right-lateralized hubs showed positive correlation across subjects, but only for connections sharing a node. Lateralization of brain connections appears to be a local rather than global property of brain networks, and our data are not consistent with a whole-brain phenotype of greater "left-brained" or greater "right-brained" network strength across individuals. Small increases in lateralization with age were seen, but no differences in gender were observed.},
+author = {Nielsen, Jared A and Zielinski, Brandon A and Ferguson, Michael A and Lainhart, Janet E and Anderson, Jeffrey S},
+doi = {10.1371/journal.pone.0071275},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nielsen et al. - 2013 - An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic r.pdf:pdf},
+issn = {1932-6203},
+journal = {PloS one},
+keywords = {Adolescent,Adult,Aging,Aging: physiology,Brain,Brain: cytology,Brain: physiology,Child,Female,Functional Laterality,Functional Laterality: physiology,Humans,Magnetic Resonance Imaging,Male,Nerve Net,Nerve Net: cytology,Nerve Net: physiology,Phenotype,Rest,Rest: physiology,Synapses,Synapses: physiology,Young Adult},
+month = jan,
+number = {8},
+pages = {e71275},
+pmid = {23967180},
+title = {{An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging.}},
+url = {http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275},
+volume = {8},
+year = {2013}
+}
+@article{Mehta2013,
+abstract = {Neuroergonomics is an emerging science that is defined as the study
+of the human brain in relation to performance at work and in everyday
+settings. This paper provides a critical review of the neuroergonomic
+approach to evaluating physical and cognitive work, particularly
+in mobile settings. Neuroergonomics research employing mobile and
+immobile brain imaging techniques are discussed in the following
+areas of physical and cognitive work: (1) physical work parameters;
+(2) physical fatigue; (3) vigilance and mental fatigue; (4) training
+and neuroadaptive systems; and (5) assessment of concurrent physical
+and cognitive work. Finally, the integration of brain and body measurements
+in investigating workload and fatigue, in the context of mobile brain/body
+imaging (MoBI), is discussed.},
+author = {Mehta, Ranjana K and Parasuraman, Raja},
+doi = {10.3389/fnhum.2013.00889},
+issn = {1662-5161},
+journal = {Frontiers in Human Neuroscience},
+number = {889},
+title = {{Neuroergonomics: A Review of Applications to Physical and Cognitive Work}},
+url = {http://www.frontiersin.org/human\_neuroscience/10.3389/fnhum.2013.00889/abstract},
+volume = {7},
+year = {2013}
+}
+@article{Kim:2014-06-01T00:00:00:1741-2552:36010,
+abstract = {Objective. The objective of this study is to find components that might be related to phoneme representation in the brain and to discriminate EEG responses for each speech sound on a trial basis. Approach. We used multivariate empirical mode decomposition (MEMD) and common spatial pattern for feature extraction. We chose three vowel stimuli, /a/, /i/ and /u/, based on previous findings, such that the brain can detect change in formant frequency (F2) of vowels. EEG activity was recorded from seven native Korean speakers at Gwangju Institute of Science and Technology. We applied MEMD over EEG channels to extract speech-related brain signal sources, and looked for the intrinsic mode functions which were dominant in the alpha bands. After the MEMD procedure, we applied the common spatial pattern algorithm for enhancing the classification performance, and used linear discriminant analysis (LDA) as a classifier. Main results. The brain responses to the three vowels could be classified as one of the learned phonemes on a single-trial basis with our approach. Significance. The results of our study show that brain responses to vowels can be classified for single trials using MEMD and LDA. This approach may not only become a useful tool for the brain–computer interface but it could also be used for discriminating the neural correlates of categorical speech perception.},
+author = {Kim, Jongin and Lee, Suh-Kyung and Lee, Boreom},
+doi = {doi:10.1088/1741-2560/11/3/036010},
+journal = {Journal of Neural Engineering},
+number = {3},
+pages = {36010--36021},
+title = {{EEG classification in a single-trial basis for vowel speech perception using multivariate empirical mode decomposition}},
+url = {http://www.ingentaconnect.com/content/iop/jne/2014/00000011/00000003/art036010},
+volume = {11},
+year = {2014}
+}
+@article{Jolles2015,
+author = {Jolles, Dietsje and Wassermann, Demian and Chokhani, Ritika and Richardson, Jennifer and Tenison, Caitlin and Bammer, Roland and Fuchs, Lynn and Supekar, Kaustubh and Menon, Vinod},
+doi = {10.1007/s00429-014-0975-6},
+issn = {1863-2653},
+journal = {Brain Structure and Function},
+keywords = {Academic; Arithmetic; Diffusion tensor imaging (DT},
+pages = {1--15},
+publisher = {Springer Berlin Heidelberg},
+title = {{Plasticity of left perisylvian white-matter tracts is associated with individual differences in math learning}},
+url = {http://dx.doi.org/10.1007/s00429-014-0975-6},
+year = {2015}
+}
+@article{Hickok2004,
+abstract = {Despite intensive work on language-brain relations, and a fairly impressive accumulation of knowledge over the last several decades, there has been little progress in developing large-scale models of the functional anatomy of language that integrate neuropsychological, neuroimaging, and psycholinguistic data. Drawing on relatively recent developments in the cortical organization of vision, and on data from a variety of sources, we propose a new framework for understanding aspects of the functional anatomy of language which moves towards remedying this situation. The framework posits that early cortical stages of speech perception involve auditory fields in the superior temporal gyrus bilaterally (although asymmetrically). This cortical processing system then diverges into two broad processing streams, a ventral stream, which is involved in mapping sound onto meaning, and a dorsal stream, which is involved in mapping sound onto articulatory-based representations. The ventral stream projects ventro-laterally toward inferior posterior temporal cortex (posterior middle temporal gyrus) which serves as an interface between sound-based representations of speech in the superior temporal gyrus (again bilaterally) and widely distributed conceptual representations. The dorsal stream projects dorso-posteriorly involving a region in the posterior Sylvian fissure at the parietal-temporal boundary (area Spt), and ultimately projecting to frontal regions. This network provides a mechanism for the development and maintenance of "parity" between auditory and motor representations of speech. Although the proposed dorsal stream represents a very tight connection between processes involved in speech perception and speech production, it does not appear to be a critical component of the speech perception process under normal (ecologically natural) listening conditions, that is, when speech input is mapped onto a conceptual representation. We also propose some degree of bi-directionality in both the dorsal and ventral pathways. We discuss some recent empirical tests of this framework that utilize a range of methods. We also show how damage to different components of this framework can account for the major symptom clusters of the fluent aphasias, and discuss some recent evidence concerning how sentence-level processing might be integrated into the framework.},
+author = {Hickok, Gregory and Poeppel, David},
+doi = {10.1016/j.cognition.2003.10.011},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hickok, Poeppel - 2004 - Dorsal and ventral streams a framework for understanding aspects of the functional anatomy of language.pdf:pdf},
+issn = {0010-0277},
+journal = {Cognition},
+keywords = {Aphasia,Aphasia: physiopathology,Brain,Brain: physiopathology,Humans,Language,Parietal Lobe,Parietal Lobe: physiopathology,Speech Perception,Speech Perception: physiology,Speech Production Measurement,Temporal Lobe,Temporal Lobe: physiopathology},
+month = jan,
+number = {1-2},
+pages = {67--99},
+pmid = {15037127},
+title = {{Dorsal and ventral streams: a framework for understanding aspects of the functional anatomy of language.}},
+url = {http://www.sciencedirect.com/science/article/pii/S0010027703002282},
+volume = {92},
+year = {2004}
+}
+@article{Herve2013,
+abstract = {Hemispheric specialization (HS) is a hemisphere-dependent relationship between a cognitive, sensory, or motor function and a set of brain structures. It includes both the hosting by a given hemisphere of specialized networks that have unique functional properties and mechanisms that enable the inter-hemispheric coordination necessary for efficient processing. Long derived from neuropsychological and behavioral observations, knowledge of HS is currently being profoundly modified by cutting-edge neuroimaging research that focuses both on the neural implementation of HS for language, visuospatial functions, and motor control/handedness across development and on the analysis of interactions between brain regions within and across hemispheres. New findings reveal the fundamental role of lateralization in the large-scale architecture of the human brain, whose ontogenesis has begun to be investigated with genetic-heritability brain mapping.},
+author = {Herv\'{e}, Pierre-Yves and Zago, Laure and Petit, Laurent and Mazoyer, Bernard and Tzourio-Mazoyer, Nathalie},
+doi = {10.1016/j.tics.2012.12.004},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Herv\'{e} et al. - 2013 - Revisiting human hemispheric specialization with neuroimaging.pdf:pdf},
+issn = {1879-307X},
+journal = {Trends in cognitive sciences},
+keywords = {Brain,Brain Mapping,Brain: physiology,Cognition,Cognition: physiology,Functional Laterality,Functional Laterality: physiology,Humans,Movement,Movement: physiology,Neuroimaging,Sensation,Sensation: physiology},
+month = feb,
+number = {2},
+pages = {69--80},
+pmid = {23317751},
+title = {{Revisiting human hemispheric specialization with neuroimaging.}},
+url = {http://www.sciencedirect.com/science/article/pii/S1364661312002847},
+volume = {17},
+year = {2013}
+}
+@article{Hertrich2013,
+author = {Hertrich, Ingo and Ackermann, Hermann},
+doi = {10.1002/wcs.1211},
+issn = {19395078},
+journal = {Wiley Interdisciplinary Reviews: Cognitive Science},
+month = mar,
+number = {2},
+pages = {191--200},
+title = {{Neurophonetics}},
+url = {http://doi.wiley.com/10.1002/wcs.1211},
+volume = {4},
+year = {2013}
+}
+@article{Hagoort2014,
+abstract = {Current views on the neurobiological underpinnings of language are discussed that deviate in a number of ways from the classical Wernicke-Lichtheim-Geschwind model. More areas than Broca's and Wernicke's region are involved in language. Moreover, a division along the axis of language production and language comprehension does not seem to be warranted. Instead, for central aspects of language processing neural infrastructure is shared between production and comprehension. Three different accounts of the role of Broca's area in language are discussed. Arguments are presented in favor of a dynamic network view, in which the functionality of a region is co-determined by the network of regions in which it is embedded at particular moments in time. Finally, core regions of language processing need to interact with other networks (e.g. the attentional networks and the ToM network) to establish full functionality of language and communication.},
+author = {Hagoort, Peter},
+doi = {10.1016/j.conb.2014.07.013},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hagoort - 2014 - Nodes and networks in the neural architecture for language Broca's region and beyond.pdf:pdf},
+issn = {1873-6882},
+journal = {Current opinion in neurobiology},
+month = jul,
+pages = {136--141},
+pmid = {25062474},
+title = {{Nodes and networks in the neural architecture for language: Broca's region and beyond.}},
+url = {http://www.sciencedirect.com/science/article/pii/S095943881400141X},
+volume = {28C},
+year = {2014}
+}
+@article{Gross2013a,
+abstract = {Cortical oscillations are likely candidates for segmentation and coding of continuous speech. Here, we monitored continuous speech processing with magnetoencephalography (MEG) to unravel the principles of speech segmentation and coding. We demonstrate that speech entrains the phase of low-frequency (delta, theta) and the amplitude of high-frequency (gamma) oscillations in the auditory cortex. Phase entrainment is stronger in the right and amplitude entrainment is stronger in the left auditory cortex. Furthermore, edges in the speech envelope phase reset auditory cortex oscillations thereby enhancing their entrainment to speech. This mechanism adapts to the changing physical features of the speech envelope and enables efficient, stimulus-specific speech sampling. Finally, we show that within the auditory cortex, coupling between delta, theta, and gamma oscillations increases following speech edges. Importantly, all couplings (i.e., brain-speech and also within the cortex) attenuate for backward-presented speech, suggesting top-down control. We conclude that segmentation and coding of speech relies on a nested hierarchy of entrained cortical oscillations.},
+author = {Gross, Joachim and Hoogenboom, Nienke and Thut, Gregor and Schyns, Philippe Phillippe, and Panzeri, Stefano and Belin, Pascal and Garrod, Simon and {Panzeri Stefano}},
+doi = {10.1371/journal.pbio.1001752},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gross et al. - 2013 - Speech rhythms and multiplexed oscillatory sensory coding in the human brain.pdf:pdf},
+issn = {1545-7885},
+journal = {PLoS biology},
+number = {12},
+pages = {e1001752},
+pmid = {24391472},
+title = {{Speech rhythms and multiplexed oscillatory sensory coding in the human brain.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3876971\&tool=pmcentrez\&rendertype=abstract},
+volume = {11},
+year = {2013}
+}
+@article{Golestani2011,
+abstract = {Are experts born with particular predispositions, or are they made through experience? We examined brain structure in expert phoneticians, individuals who are highly trained to analyze and transcribe speech. We found a positive correlation between the size of left pars opercularis and years of phonetic transcription training experience, illustrating how learning may affect brain structure. Phoneticians were also more likely to have multiple or split left transverse gyri in the auditory cortex than nonexpert controls, and the amount of phonetic transcription training did not predict auditory cortex morphology. The transverse gyri are thought to be established in utero; our results thus suggest that this gross morphological difference may have existed before the onset of phonetic training, and that its presence confers an advantage of sufficient magnitude to affect career choices. These results suggest complementary influences of domain-specific predispositions and experience-dependent brain malleability, influences that likely interact in determining not only how experience shapes the human brain but also why some individuals become engaged by certain fields of expertise.},
+author = {Golestani, Narly and Price, Cathy J and Scott, Sophie K},
+doi = {10.1523/JNEUROSCI.3891-10.2011},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Golestani, Price, Scott - 2011 - Born with an ear for dialects Structural plasticity in the expert phonetician brain.pdf:pdf},
+issn = {1529-2401},
+journal = {The Journal of neuroscience : the official journal of the Society for Neuroscience},
+keywords = {Adult,Brain,Brain: anatomy \& histology,Female,Humans,Image Processing, Computer-Assisted,Language,Magnetic Resonance Imaging,Male,Middle Aged,Neuronal Plasticity,Neuronal Plasticity: physiology,Phonetics,Speech Perception,Speech Perception: physiology},
+month = mar,
+number = {11},
+pages = {4213--20},
+pmid = {21411662},
+title = {{Born with an ear for dialects? Structural plasticity in the expert phonetician brain.}},
+url = {http://www.jneurosci.org/content/31/11/4213.full},
+volume = {31},
+year = {2011}
+}
+@article{Golestani2002,
+abstract = {We examined the relationship between brain anatomy and the ability to learn nonnative speech sounds, as well as rapidly changing and steady-state nonlinguistic sounds, using voxel-based morphometry in 59 healthy adults. Faster phonetic learners appeared to have more white matter in parietal regions, especially in the left hemisphere. The pattern of results was similar for the rapidly changing but not for the steady-state nonlinguistic stimuli, suggesting that morphological correlates of phonetic learning are related to the ability to process rapid temporal variation. Greater asymmetry in the amount of white matter in faster learners may be related to greater myelination allowing more efficient neural processing, which is critical for the ability to process certain speech sounds.},
+author = {Golestani, Narly and Paus, Tom\'{a}\v{s} and Zatorre, Robert J},
+doi = {10.1016/S0896-6273(02)00862-0},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Golestani, Paus, Zatorre - 2002 - Anatomical Correlates of Learning Novel Speech Sounds.pdf:pdf},
+issn = {08966273},
+journal = {Neuron},
+month = aug,
+number = {5},
+pages = {997--1010},
+title = {{Anatomical Correlates of Learning Novel Speech Sounds}},
+url = {http://www.sciencedirect.com/science/article/pii/S0896627302008620},
+volume = {35},
+year = {2002}
+}
+@article{Golestani2007,
+abstract = {Previous work has shown a relationship between parietal lobe anatomy and nonnative speech sound learning. We scanned a new group of phonetic learners using structural magnetic resonance imaging and diffusion tensor imaging. Voxel-based morphometry indicated higher white matter (WM) density in left Heschl's gyrus (HG) in faster compared with slower learners, and manual segmentation of this structure confirmed that the WM volume of left HG is larger in the former compared with the latter group. This finding was replicated in a reanalysis of the original groups tested in Golestani and others (2002, Anatomical correlates of learning novel speech sounds. Neuron 35:997-1010). We also found that faster learners have a greater asymmetry (left > right) in parietal lobe volumes than slower learners and that the right insula and HG are more superiorly located in slower compared with faster learners. These results suggest that left auditory cortex WM anatomy, which likely reflects auditory processing efficiency, partly predicts individual differences in an aspect of language learning that relies on rapid temporal processing. It also appears that a global displacement of components of a right hemispheric language network, possibly reflecting individual differences in the functional anatomy and lateralization of language processing, is predictive of speech sound learning.},
+author = {Golestani, Narly and Molko, Nicolas and Dehaene, Stanislas and LeBihan, Denis and Pallier, Christophe},
+doi = {10.1093/cercor/bhk001},
+issn = {1047-3211},
+journal = {Cerebral cortex (New York, N.Y. : 1991)},
+keywords = {Adolescent,Auditory Cortex,Auditory Cortex: physiology,Brain Mapping,Child,Diffusion Magnetic Resonance Imaging,Dominance, Cerebral,Dominance, Cerebral: physiology,Humans,Learning,Learning: physiology,Parietal Lobe,Parietal Lobe: physiology,Phonetics,Predictive Value of Tests,Speech Perception,Speech Perception: physiology},
+month = mar,
+number = {3},
+pages = {575--82},
+pmid = {16603709},
+title = {{Brain structure predicts the learning of foreign speech sounds.}},
+url = {http://cercor.oxfordjournals.org/content/17/3/575.full},
+volume = {17},
+year = {2007}
+}
+@article{Giraud2012,
+abstract = {Neuronal oscillations are ubiquitous in the brain and may contribute to cognition in several ways: for example, by segregating information and organizing spike timing. Recent data show that delta, theta and gamma oscillations are specifically engaged by the multi-timescale, quasi-rhythmic properties of speech and can track its dynamics. We argue that they are foundational in speech and language processing, 'packaging' incoming information into units of the appropriate temporal granularity. Such stimulus-brain alignment arguably results from auditory and motor tuning throughout the evolution of speech and language and constitutes a natural model system allowing auditory research to make a unique contribution to the issue of how neural oscillatory activity affects human cognition.},
+author = {Giraud, Anne-Lise and Poeppel, David},
+doi = {10.1038/nn.3063},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Giraud, Poeppel - 2012 - Cortical oscillations and speech processing emerging computational principles and operations.pdf:pdf},
+issn = {1546-1726},
+journal = {Nature neuroscience},
+keywords = {Acoustic Stimulation,Acoustic Stimulation: methods,Action Potentials,Action Potentials: physiology,Auditory Cortex,Auditory Cortex: physiology,Brain Mapping,Brain Mapping: methods,Brain Waves,Brain Waves: physiology,Computational Biology,Computational Biology: methods,Cortical Synchronization,Cortical Synchronization: physiology,Humans,Nerve Net,Nerve Net: physiology,Speech,Speech Perception,Speech Perception: physiology,Speech: physiology},
+month = apr,
+number = {4},
+pages = {511--7},
+pmid = {22426255},
+publisher = {Nature Publishing Group},
+title = {{Cortical oscillations and speech processing: emerging computational principles and operations.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/22426255},
+volume = {15},
+year = {2012}
+}
+@article{ghitza2013neuronal,
+abstract = {A RECENT OPINION ARTICLE (NEURAL OSCILLATIONS IN SPEECH: do not be enslaved by the envelope. Obleser et al., 2012) questions the validity of a class of speech perception models inspired by the possible role of neuronal oscillations in decoding speech (e.g., Ghitza, 2011; Giraud and Poeppel, 2012). The authors criticize, in particular, what they see as an over-emphasis of the role of temporal speech envelope information, and an over-emphasis of entrainment to the input rhythm while neglecting the role of top-down processes in modulating the entrainment of neuronal oscillations. Here we respond to these arguments, referring to the phenomenological model of Ghitza (2011), taken as a representative of the criticized approach.},
+author = {Ghitza, Oded and Giraud, Anne-Lise and Poeppel, David},
+doi = {10.3389/fnhum.2012.00340},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ghitza, Giraud, Poeppel - 2012 - Neuronal oscillations and speech perception critical-band temporal envelopes are the essence.pdf:pdf},
+isbn = {1662-5161 (Electronic)$\backslash$n1662-5161 (Linking)},
+issn = {1662-5161},
+journal = {Frontiers in human neuroscience},
+keywords = {-linguistic units,and phrasal,cascaded neuron,cascaded neuronal oscillations,correspondence between the time,critical-band envelopes,hierarchical window structure,intelligibility,of phonemic,on,psycho,scales,syllabic,syllabic parsing,there is a remarkable},
+number = {340},
+pages = {340},
+pmid = {23316150},
+title = {{Neuronal oscillations and speech perception: critical-band temporal envelopes are the essence.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3539830\&tool=pmcentrez\&rendertype=abstract http://www.frontiersin.org/human\_neuroscience/10.3389/fnhum.2012.00340/abstract},
+volume = {6},
+year = {2012}
+}
+@article{fries2005mechanism,
+author = {Fries, Pascal and Others},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Fries, others - 2005 - A mechanism for cognitive dynamics neuronal communication through neuronal coherence.pdf:pdf},
+journal = {Trends in cognitive sciences},
+number = {10},
+pages = {474--480},
+publisher = {Elsevier Science},
+title = {{A mechanism for cognitive dynamics: neuronal communication through neuronal coherence}},
+volume = {9},
+year = {2005}
+}
+@article{Friederici2011,
+abstract = {Language processing is a trait of human species. The knowledge about its neurobiological basis has been increased considerably over the past decades. Different brain regions in the left and right hemisphere have been identified to support particular language functions. Networks involving the temporal cortex and the inferior frontal cortex with a clear left lateralization were shown to support syntactic processes, whereas less lateralized temporo-frontal networks subserve semantic processes. These networks have been substantiated both by functional as well as by structural connectivity data. Electrophysiological measures indicate that within these networks syntactic processes of local structure building precede the assignment of grammatical and semantic relations in a sentence. Suprasegmental prosodic information overtly available in the acoustic language input is processed predominantly in a temporo-frontal network in the right hemisphere associated with a clear electrophysiological marker. Studies with patients suffering from lesions in the corpus callosum reveal that the posterior portion of this structure plays a crucial role in the interaction of syntactic and prosodic information during language processing.},
+author = {Friederici, Angela D},
+doi = {10.1152/physrev.00006.2011},
+issn = {1522-1210},
+journal = {Physiological reviews},
+keywords = {Brain,Brain Mapping,Brain Mapping: methods,Brain: anatomy \& histology,Brain: physiology,Frontal Lobe,Frontal Lobe: anatomy \& histology,Frontal Lobe: physiology,Humans,Language Development,Nerve Net,Nerve Net: anatomy \& histology,Nerve Net: physiology,Speech Perception,Speech Perception: physiology,Temporal Lobe,Temporal Lobe: anatomy \& histology,Temporal Lobe: physiology},
+month = oct,
+number = {4},
+pages = {1357--92},
+pmid = {22013214},
+title = {{The brain basis of language processing: from structure to function.}},
+url = {http://physrev.physiology.org/content/91/4/1357.full-text.pdf+html},
+volume = {91},
+year = {2011}
+}
+@article{Friederici2012,
+abstract = {Over the years, a large body of work on the brain basis of language
+comprehension has accumulated, paving the way for the formulation
+of a comprehensive model. The model proposed here describes the functional
+neuroanatomy of the different processing steps from auditory perception
+to comprehension as located in different gray matter brain regions.
+It also specifies the information flow between these regions, taking
+into account white matter fiber tract connections. Bottom-up, input-driven
+processes proceeding from the auditory cortex to the anterior superior
+temporal cortex and from there to the prefrontal cortex, as well
+as top-down, controlled and predictive processes from the prefrontal
+cortex back to the temporal cortex are proposed to constitute the
+cortical language circuit. },
+author = {Friederici, Angela D},
+doi = {http://dx.doi.org/10.1016/j.tics.2012.04.001},
+issn = {1364-6613},
+journal = {Trends in Cognitive Sciences},
+number = {5},
+pages = {262--268},
+title = {{The cortical language circuit: from auditory perception to sentence comprehension}},
+url = {http://www.sciencedirect.com/science/article/pii/S1364661312000794},
+volume = {16},
+year = {2012}
+}
+@article{Francis2006,
+abstract = {We examined the effect of perceptual training on a well-established hemispheric asymmetry in speech processing. Eighteen listeners were trained to use a within-category difference in voice onset time (VOT) to cue talker identity. Successful learners (n=8) showed faster response times for stimuli presented only to the left ear than for those presented only to the right. The development of a left-ear/right-hemisphere advantage for processing a prototypically phonetic cue supports a model of speech perception in which lateralization is driven by functional demands (talker identification vs. phonetic categorization) rather than by acoustic stimulus properties alone.},
+author = {Francis, Alexander L and Driscoll, Courtney},
+doi = {10.1016/j.bandl.2006.06.002},
+issn = {0093-934X},
+journal = {Brain and language},
+keywords = {Adolescent,Adult,Brain,Brain: physiology,Cues,Discrimination (Psychology),Female,Functional Laterality,Functional Laterality: physiology,Hearing,Hearing: physiology,Humans,Male,Middle Aged,Phonation,Reaction Time,Recognition (Psychology),Speech Perception,Voice Training},
+month = sep,
+number = {3},
+pages = {310--8},
+pmid = {16828153},
+title = {{Training to use voice onset time as a cue to talker identification induces a left-ear/right-hemisphere processing advantage.}},
+url = {http://www.sciencedirect.com/science/article/pii/S0093934X06001131},
+volume = {98},
+year = {2006}
+}
+@article{Feng2015,
+abstract = {Abstract Many studies have used a neuroscience-based approach towards
+examination of writing and reading skills and how these might differ
+between languages. However, few studies have focused on differences
+in grammatical processing that may be specific to certain languages.
+Studies have shown that grammar for active and passive sentences
+differs between Chinese and English. Chinese, a morphologically non-inflectional
+language, is visibly different from inflectional languages in terms
+of verb morphology changes but similar in terms of subject and object
+transformation movements. We used a blocked design functional magnetic
+resonance imaging (fMRI) study to examine brain activations during
+processing of three types of Chinese sentences: active sentences,
+passive sentences, and general declarative sentences in native Chinese
+speakers. We found similar brain activations for picture-active,
+picture-passive, and declarative sentences. However, differences
+in neural activation in the left inferior frontal gyrus (IFG) and
+posterior superior temporal gyrus (pSTG) were observed between active
+and passive conditions. Since the Chinese language does not require
+inflection of verbs when switching from active to passive sentences,
+it is possible that subject and object inversion led to the syntactic
+processing observed in the present study. These results provide evidence
+suggesting that different strategies are used for Chinese as compared
+to English for grammatical passive sentence inversions. },
+annote = {Language, Brain, and Gene: The Chinese Context},
+author = {Feng, Shiwen and Legault, Jennifer and Yang, Long and Zhu, Junwei and Shao, Keqing and Yang, Yiming},
+doi = {http://dx.doi.org/10.1016/j.jneuroling.2014.09.002},
+issn = {0911-6044},
+journal = {Journal of Neurolinguistics},
+keywords = {Grammatical system},
+number = {0},
+pages = {104--117},
+title = {{Differences in grammatical processing strategies for active and passive sentences: An fMRI study}},
+url = {http://www.sciencedirect.com/science/article/pii/S0911604414000591},
+volume = {33},
+year = {2015}
+}
+@article{Davis2003,
+abstract = {Understanding spoken language requires a complex series of processing stages to translate speech sounds into meaning. In this study, we use functional magnetic resonance imaging to explore the brain regions that are involved in spoken language comprehension, fractionating this system into sound-based and more abstract higher-level processes. We distorted English sentences in three acoustically different ways, applying each distortion to varying degrees to produce a range of intelligibility (quantified as the number of words that could be reported) and collected whole-brain echo-planar imaging data from 12 listeners using sparse imaging. The blood oxygenation level-dependent signal correlated with intelligibility along the superior and middle temporal gyri in the left hemisphere and in a less-extensive homologous area on the right, the left inferior frontal gyrus (LIFG), and the left hippocampus. Regions surrounding auditory cortex, bilaterally, were sensitive to intelligibility but also showed a differential response to the three forms of distortion, consistent with sound-form-based processes. More distant intelligibility-sensitive regions within the superior and middle temporal gyri, hippocampus, and LIFG were insensitive to the acoustic form of sentences, suggesting more abstract nonacoustic processes. The hierarchical organization suggested by these results is consistent with cognitive models and auditory processing in nonhuman primates. Areas that were particularly active for distorted speech conditions and, thus, might be involved in compensating for distortion, were found exclusively in the left hemisphere and partially overlapped with areas sensitive to intelligibility, perhaps reflecting attentional modulation of auditory and linguistic processes.
+},
+author = {Davis, Matthew H. and Johnsrude, Ingrid S.},
+journal = {J. Neurosci.},
+month = apr,
+number = {8},
+pages = {3423--3431},
+title = {{Hierarchical Processing in Spoken Language Comprehension}},
+url = {http://www.jneurosci.org/content/23/8/3423.short},
+volume = {23},
+year = {2003}
+}
+@article{Brunet2014,
+abstract = {Numerous studies suggest that gamma-band synchronization is central to visual processing, yet most of them have used artificial stimuli. A new study using electrocorticography (ECoG) in humans reported finding no gamma for many natural images and for visual noise. However, we highlight that sensitive metrics can reveal clear gamma not only for natural images, but for noise stimuli and even during the absence of visual stimuli. This shows the importance of using appropriate metrics for detecting rhythmic synchronization and investigating the function of gamma during natural viewing.},
+author = {Brunet, Nicolas and Vinck, Martin and Bosman, Conrado A. and Singer, Wolf and Fries, Pascal},
+doi = {10.1016/j.tics.2014.08.006},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Brunet et al. - 2014 - Gamma or no gamma, that is the question.pdf:pdf},
+issn = {13646613},
+journal = {Trends in Cognitive Sciences},
+keywords = {broadband high-frequency power,electrocorticography (ECoG),gamma-band synchronization,human versus animal,local field potential (LFP),natural vision},
+month = sep,
+number = {10},
+pages = {507--509},
+title = {{Gamma or no gamma, that is the question}},
+url = {http://www.sciencedirect.com/science/article/pii/S1364661314002009},
+volume = {18},
+year = {2014}
+}
+@article{Bastos2015,
+abstract = {The communication-through-coherence (CTC) hypothesis proposes that anatomical connections are dynamically rendered effective or ineffective through the presence or absence of rhythmic synchronization, in particular in the gamma and beta bands. The original CTC statement proposed that uni-directional communication is due to rhythmic entrainment with an inter-areal delay and a resulting non-zero phase relation, whereas bi-directional communication is due to zero-phase synchronization. Recent studies found that inter-areal gamma-band synchronization entails a non-zero phase lag. We therefore modify the CTC hypothesis and propose that bi-directional cortical communication is realized separately for the two directions by uni-directional CTC mechanisms entailing delays in both directions. We review evidence suggesting that inter-areal influences in the feedforward and feedback directions are segregated both anatomically and spectrally.},
+author = {Bastos, Andre M and Vezoli, Julien and Fries, Pascal},
+doi = {10.1016/j.conb.2014.11.001},
+file = {:C$\backslash$:/Users/0800196s/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bastos, Vezoli, Fries - 2015 - Communication through coherence with inter-areal delays.pdf:pdf},
+issn = {09594388},
+journal = {Current Opinion in Neurobiology},
+month = apr,
+pages = {173--180},
+title = {{Communication through coherence with inter-areal delays}},
+url = {http://www.sciencedirect.com/science/article/pii/S0959438814002165},
+volume = {31},
+year = {2015}
+}
+@article{Anwander2007,
+abstract = {It is generally agreed that the cerebral cortex can be segregated into structurally and functionally distinct areas. Anatomical subdivision of Broca's area has been achieved using different microanatomical criteria, such as cytoarchitecture and distribution of neuroreceptors. However, brain function also strongly depends upon anatomical connectivity, which therefore forms a sensible criterion for the functio-anatomical segregation of cortical areas. Diffusion-weighted magnetic resonance (MR) imaging offers the opportunity to apply this criterion in the individual living subject. Probabilistic tractographic methods provide excellent means to extract the connectivity signatures from diffusion-weighting MR data sets. The correlations among these signatures may then be used by an automatic clustering method to identify cortical regions with mutually distinct and internally coherent connectivity. We made use of this principle to parcellate Broca's area. As it turned out, 3 subregions are discernible that were identified as putative Brodmann area (BA) 44, BA45, and the deep frontal operculum. These results are discussed in the light of previous evidence from other methods in both human and nonhuman primates. We conclude that plausible results can be achieved by the proposed technique, which cannot be obtained by any other method in vivo. For the first time, there is a possibility to investigate the anatomical subdivision of Broca's area noninvasively in the individual living human subject.},
+author = {Anwander, A and Tittgemeyer, M and von Cramon, D Y and Friederici, A D and Kn\"{o}sche, T R},
+doi = {10.1093/cercor/bhk034},
+issn = {1047-3211},
+journal = {Cerebral cortex (New York, N.Y. : 1991)},
+keywords = {Adult,Female,Frontal Lobe,Frontal Lobe: anatomy \& histology,Humans,Magnetic Resonance Imaging,Male,Nerve Fibers, Myelinated,Nerve Fibers, Myelinated: ultrastructure,Nerve Net,Nerve Net: anatomy \& histology,Neural Pathways,Neural Pathways: anatomy \& histology},
+month = apr,
+number = {4},
+pages = {816--25},
+pmid = {16707738},
+title = {{Connectivity-Based Parcellation of Broca's Area.}},
+url = {http://cercor.oxfordjournals.org/content/17/4/816.full},
+volume = {17},
+year = {2007}
+}
+@article{Andoh2008,
+abstract = {Priming stimulations have shown powerful effects on motor cortex behavior. However, the effects over language areas have not been explored. We assessed the effects of different priming frequencies of repetitive transcranial magnetic stimulation (rTMS), 1 Hz rTMS or 50 Hz bursts of rTMS (theta burst stimulation [TBS]), on temporoparietal language areas (i.e., Wernicke's area) localized with functional magnetic resonance imaging. Functional maps were acquired during an auditory word-detection task with native or foreign language sentences in 14 healthy men. Frameless stereotaxy was used to guide the transcranial magnetic stimulation coil position over Wernicke's area. Active and placebo randomized sessions of priming stimulations (1 Hz rTMS or TBS) were applied at rest, and response times (RTs) were recorded during the auditory word-detection task performed subsequently with 1 Hz rTMS. Individual anatomofunctional maps localized activation in Wernicke's area. Repeated-measure analysis of variance for RTs revealed that priming with 1 Hz rTMS facilitated the detection of native words, whereas priming with TBS facilitated the detection of foreign words. Consistent with motor cortex studies, these findings suggest that priming frequency plays a crucial role in word detection in the auditory stream.},
+author = {Andoh, Jamila and Artiges, Eric and Pallier, Christophe and Rivi\`{e}re, Denis and Mangin, Jean-Francois and Paill\`{e}re-Martinot, Marie-Laure and Martinot, Jean-Luc},
+doi = {10.1093/cercor/bhm047},
+issn = {1460-2199},
+journal = {Cerebral cortex (New York, N.Y. : 1991)},
+keywords = {Adult,Humans,Male,Motor Cortex,Motor Cortex: physiology,Speech Perception,Speech Perception: physiology,Task Performance and Analysis,Transcranial Magnetic Stimulation,Transcranial Magnetic Stimulation: methods,Vocabulary},
+month = jan,
+number = {1},
+pages = {210--6},
+pmid = {17490990},
+title = {{Priming frequencies of transcranial magnetic stimulation over Wernicke's area modulate word detection.}},
+url = {http://cercor.oxfordjournals.org/content/18/1/210.full},
+volume = {18},
+year = {2008}
+}
